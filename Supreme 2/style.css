@@ -178,9 +178,7 @@ footer .Links {
     .text-link {
         display: none;
     }
-}
-
-@media screen and (max-width: 414px) {
+    
     .information {
 
         font-size: 15px;
